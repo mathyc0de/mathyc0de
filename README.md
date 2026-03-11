@@ -1,4 +1,4 @@
-🎓 Computer Engineer undergraduate student
+🎓 Computer Engineer undergraduate
 
 ---
 
