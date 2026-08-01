@@ -32,7 +32,7 @@
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/matheuspsilveira/"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:matheuspsilveira0@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E1E1E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/matheuspsilveira/"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
 *Thanks for visiting my profile! Feel free to explore my repositories and reach out if you’d like to collaborate.* 
