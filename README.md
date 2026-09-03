@@ -1,7 +1,7 @@
 🎓 Computer Engineer Student
 
 <p align="center">
-  <a href="https://mathyc0de.github.io/Portfolio/">
+  <a href="https://mathyc0de.github.io/portfolio/">
     <img src="https://img.shields.io/badge/💼%20Check my Portfolio-4A4A4A?style=flat"/>
   </a>
 </p>
